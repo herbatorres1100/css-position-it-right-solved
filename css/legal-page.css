@@ -1,8 +1,10 @@
 .legal-header {
+  position: fixed;
   background-color: #e2e2e2;
   padding: 30px;
   margin-top: 60px;
   width: 100%;
+  z-index: 1;
 }
 
 .legal-header h1 {
@@ -12,12 +14,14 @@
 }
 
 main {
+  overflow: scroll;
 }
 
 section {
   display: flex;
   gap: 30px;
   position: relative;
+  top: 150px;
   border-bottom: 1px solid grey;
   padding: 30px;
   max-width: 900px;
@@ -26,6 +30,8 @@ section {
 }
 
 .section-label {
+  position: sticky;
+  top: 190px;
   width: 100%;
   background-color: #2b2d3b;
   height: max-content;
@@ -33,6 +39,7 @@ section {
 }
 
 .document-content {
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -59,6 +66,7 @@ footer {
   background-color: #e2e2e2;
   padding: 0 30px;
   min-height: 70px;
+  z-index: 1;
 }
 
 .footer-content {
