@@ -28,7 +28,7 @@
   left: 15%; 
   width: 25%; 
   height: 25%; 
-  border: 0.75%; 
+  border: 3px solid orange; 
   border-radius: 50%;
 }
 
@@ -38,7 +38,7 @@
   left: 12.5em;
   width: 6.25em; 
   height: 4.375em; 
-  border: 0.1875em solid;
+  border: 3px solid  rgb(8, 0, 255);
   border-radius: 50%;
   background: radial-gradient(#000808, #aac60b);
 }
