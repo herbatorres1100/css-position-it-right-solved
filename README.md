@@ -35,17 +35,17 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] The project's file/folder structure should NOT be edited!
-- [ ] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
-- [ ] VSCode IDE MUST have 0 problems listed
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
-- [ ] The code MUST be formatted with Prettier.
-- [ ] Push the changes to the Github repo, when finished.
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] This Assignment is NOT tested. You can use all the desired creativity!
+- [x] All the tasks of the "Specific requirements" section MUST be solved
+- [x] The project's file/folder structure should NOT be edited!
+- [x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
+- [x] VSCode IDE MUST have 0 problems listed
+- [x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
+- [x] The code MUST be formatted with Prettier.
+- [x] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
 
 ## Specific requirements
@@ -54,9 +54,9 @@ This assignment should prove that a student is able to:
 
 - [ ] Visit the [The shapes of CSS](https://css-tricks.com/the-shapes-of-css/) article for some shapes inspiration.
 - [ ] Edit the following files to solve that part of the assignment:
-  - [ ] html: `/pages/fancy-robot.html`
-  - [ ] css: `/css/fancy-robot.css`
-- [ ] The container for the robot face (face shape) should be positioned/aligned following the rules:
+  - [x] html: `/pages/fancy-robot.html`
+  - [x] css: `/css/fancy-robot.css`
+- [x] The container for the robot face (face shape) should be positioned/aligned following the rules:
   - [ ] It should be horizontally centered to the viewport width and height.
   - [ ] The container should not overlap the header section.
 - [ ] Style the shape of the robot face to follow the requirements:
